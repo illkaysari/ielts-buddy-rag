@@ -72,7 +72,7 @@ Tarayıcıda açılacak sayfa üzerinden chatbot kullanılabilir.
 
 ## 🌐 Web Arayüzü
 
-## 👉 Streamlit Web Uygulaması (Deploy Link) (isteğe bağlı olarak eklenecektir)
+## 👉 Streamlit Web Uygulaması: http://localhost:8501/
 
 Kullanıcı, web arayüzü üzerinden soru yazarak anında yanıt alabilir.
 
