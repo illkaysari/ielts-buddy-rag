@@ -17,7 +17,7 @@ Chatbot, hem örnek yanıtlardan **doğrudan bilgi çekebilir** (retrieval) hem 
 Kullanılan veri seti, **IELTS Speaking Part 1-2-3** bölümlerine ait örnek soru-cevaplardan oluşmaktadır.  
 Her kayıt şu formatta yapılandırılmıştır:  
 
-```json
+
 {
   "instruction": "Do you have a bike now?",
   "response": "Yes, I do have a bike now. I use it mainly for short trips around my neighborhood..."
