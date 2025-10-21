@@ -1,0 +1,550 @@
+[
+    {
+        "instruction": "Do you like art?",
+        "response": "I find great joy in art as it allows for personal enrichment, offers diverse forms of visual expression, and fosters a deeper appreciation for different cultures."
+    },
+    {
+        "instruction": "How often do you go to art galleries?",
+        "response": "I don't go to art galleries very often, maybe once or twice a year. It's usually when there's a special exhibit or if I'm traveling to a new city. I do enjoy the experience, but it's not something I seek out regularly."
+    },
+    {
+        "instruction": "Do you like visiting art galleries in your free time?",
+        "response": "Visiting art galleries is delightful because they provide immersive experiences, serve as a source of artistic inspiration, and allow for extensive visual exploration."
+    },
+    {
+        "instruction": "Do you like modern or traditional art?",
+        "response": "My preference leans towards modern art due to its innovative techniques and the contemporary themes it often explores, though I also value the historical depth of traditional art."
+    },
+    {
+        "instruction": "Would you like to be an artist?",
+        "response": "I admire artists for their creative expression, but I don't aspire to be a professional artist. Engaging in art as a personal hobby, however, is something I consider."
+    },
+    {
+        "instruction": "How often do you wear jewellery?",
+        "response": "I wear jewellery occasionally, mostly on special occasions. It's not a daily accessory for me, but I do enjoy wearing it when the event calls for it."
+    },
+    {
+        "instruction": "What types of jewellery do you like to buy?",
+        "response": "I prefer buying timeless pieces that are made from high-quality materials. I like jewellery that makes a statement but can still be worn for many years."
+    },
+    {
+        "instruction": "Do you usually buy jewellery?",
+        "response": "I don’t buy jewellery very often; I only purchase it occasionally when I find something that truly appeals to me. I prefer to invest in quality rather than quantity."
+    },
+    {
+        "instruction": "Have you ever bought any jewellery?",
+        "response": "Yes, I’ve bought jewelry a few times, mostly as gifts for family or friends. I’m not really into wearing it myself, but I do appreciate how a nice piece can make a special occasion even more memorable."
+    },
+    {
+        "instruction": "Why do you think some people wear a piece of jewellery for a long time?",
+        "response": "Many people wear a piece of jewellery for a long time because it holds sentimental value or personal significance. It might represent an important event or a loved one, and often, it also complements their personal style consistently."
+    },
+    {
+        "instruction": "What made you excited during childhood?",
+        "response": "Currently, I find excitement in achieving personal goals, spending quality time with loved ones, and pursuing hobbies that I'm passionate about, like reading or hiking."
+    },
+    {
+        "instruction": "What makes you excited now?",
+        "response": "I’m really excited about an upcoming trip I’ve planned. It’s been a while since I’ve traveled, so I’m looking forward to exploring new places and trying new things. The anticipation is definitely keeping me energized these days."
+    },
+    {
+        "instruction": "Do you prefer an exciting or a relaxing activity?",
+        "response": "I usually prefer a relaxing activity, like reading or taking a walk. Life can get pretty hectic, so I enjoy winding down whenever I can. That said, I do appreciate exciting activities every now and then to shake things up."
+    },
+    {
+        "instruction": "Have you experienced anything exciting recently?",
+        "response": "Recently, I've had some exciting adventures, like exploring new hiking trails and meeting interesting people from different backgrounds, which has been quite exhilarating."
+    },
+    {
+        "instruction": "Would you like to try some activities like rock climbing?",
+        "response": "I think I’d be open to trying something like rock climbing, but I’d have to build up the courage first! It looks fun and challenging, and I do enjoy pushing myself to try new things, even if it’s a bit outside my comfort zone."
+    },
+    {
+        "instruction": "Do you think activities like scuba diving are exciting?",
+        "response": "Absolutely! Scuba diving seems incredibly exciting. The idea of exploring the underwater world and seeing marine life up close would be such a thrilling experience. It’s definitely on my list of things I’d love to try one day."
+    },
+    {
+        "instruction": "Do you prefer to use a pen or pencil?",
+        "response": "I prefer using a pen for its smooth writing experience and the clean look it gives to written text, although pencils are great for situations where you might need to erase and correct your work."
+    },
+    {
+        "instruction": "When do you usually use a pen or pencil?",
+        "response": "I use a pen mostly for taking notes and writing in formal documents where permanence is important. A pencil is my go-to for sketching, drafting, or any task where I might need to make corrections."
+    },
+    {
+        "instruction": "Has your school ever taught you how to use pencils?",
+        "response": "Yes, my school did teach us how to use pencils when we were very young. We learned how to hold them properly and how to write neatly. It was one of those basic skills that everyone had to master early on."
+    },
+    {
+        "instruction": "Has someone ever taught you how to use a pen/pencil?",
+        "response": "Yes, my parents and teachers both taught me how to use a pen and pencil. They showed me how to hold them correctly and guided me through my early writing practice. It was something they emphasized to ensure I developed good handwriting habits."
+    },
+    {
+        "instruction": "When was the last time you bought a pen/pencil?",
+        "response": "The last time I bought a pen was a few months ago. I needed a new one for taking notes, and I found a nice gel pen that writes smoothly. It’s actually become one of my favorites to use."
+    },
+    {
+        "instruction": "Do you think a pen or a pencil is a good gift?",
+        "response": "Yes, a pen or pencil can be a thoughtful gift, especially if it's high-quality or beautifully crafted. They are both practical and personal, suitable for people of all ages and professions."
+    },
+    {
+        "instruction": "Do you think pen or pencil will still be popular in the future?",
+        "response": "Despite the advancements in digital technology, I believe pens and pencils will remain popular due to their simplicity, reliability, and the tactile experience they offer. They have a timeless appeal that keeps them relevant even in a digital age."
+    },
+    {
+        "instruction": "Do you like watching the stars?",
+        "response": "Yes, I enjoy watching the stars because it's such a peaceful activity that highlights the celestial beauty of the night sky and always fills me with a sense of wonder."
+    },
+    {
+        "instruction": "Have you ever learnt about outer space?",
+        "response": "I've learned about outer space through various educational experiences, from school courses to documentaries. Understanding astronomical concepts and phenomena is fascinating and an ongoing learning journey."
+    },
+    {
+        "instruction": "Would you like to go to outer space in the future?",
+        "response": "The idea of going to outer space is thrilling, and thanks to technological advancements, it might even become possible in the future. It's certainly an exciting adventure that I dream of experiencing."
+    },
+    {
+        "instruction": "Have you ever watched any movies about outer space?",
+        "response": "Yes, I've watched many movies about outer space. Films like 'Interstellar' and 'Gravity' offer incredible cinematic journeys and present inspiring stories set against the backdrop of the vast cosmos."
+    },
+    {
+        "instruction": "Do you like wearing a T-shirt?",
+        "response": "Yes, I enjoy wearing T-shirts because they are comfortable, casual, and versatile. They are perfect for many occasions and easy to pair with different types of clothing."
+    },
+    {
+        "instruction": "How often do you wear a T-shirt?",
+        "response": "I wear T-shirts pretty often, especially on weekends or when I’m just hanging out at home. They’re comfortable and easy to throw on, so I’d say I wear one at least a few times a week."
+    },
+    {
+        "instruction": "What kinds of T-shirts do you like to wear?",
+        "response": "I like to wear plain, solid-colored T-shirts most of the time. They’re versatile and go well with almost anything. I also enjoy graphic tees with simple designs or logos, especially if they have a cool or meaningful message."
+    },
+    {
+        "instruction": "Do you like T-shirts with pictures/patterns?",
+        "response": "I do like T-shirts with pictures or patterns as they add visual interest and allow me to express my personal style. They can also be great conversation starters."
+    },
+    {
+        "instruction": "Do you think older people who wear T-shirts are fashionable?",
+        "response": "Absolutely, older people can look very fashionable in T-shirts. Fashion is about personal choice and comfort, and T-shirts can be both stylish and age-appropriate."
+    },
+    {
+        "instruction": "Have you ever bought T-shirts at souvenir shops?",
+        "response": "Yes, buying T-shirts as souvenirs on vacation is a great idea. They serve as practical gifts and memorable mementos of the places visited, often featuring iconic symbols or slogans from the destination."
+    },
+    {
+        "instruction": "Do you often stay up late?",
+        "response": "I don't regularly stay up late, but occasionally it happens, especially if there's something specific that requires extra time or if I'm particularly engrossed in a book or project."
+    },
+    {
+        "instruction": "Is it easy to wake up in the morning if you stay up late?",
+        "response": "It's usually quite challenging to wake up in the morning after staying up late. Staying up disrupts the normal sleep routine, which can affect how refreshed I feel the next day."
+    },
+    {
+        "instruction": "Did you stay up late often when you were younger?",
+        "response": "When I was younger, I did stay up late more frequently. The youthful energy and having fewer responsibilities made it easier to recover from late nights."
+    },
+    {
+        "instruction": "What do you usually do when you stay up late?",
+        "response": "When I stay up late, it's usually because I'm either caught up in reading a good book, watching movies, or sometimes working on personal projects that require extended hours."
+    },
+    {
+        "instruction": "What languages do you speak?",
+        "response": "My native language is English, and I'm fluent in Spanish. I also have basic proficiency in French, which allows me to manage simple conversations."
+    },
+    {
+        "instruction": "What languages have you learned at school?",
+        "response": "Through my school curriculum, I learned Spanish and French. These language classes were part of my formal education, providing a good foundation in grammar and vocabulary."
+    },
+    {
+        "instruction": "Have you ever learnt about a foreign language?",
+        "response": "Yes, I’ve learned a bit of a few foreign languages. I studied French in school for a few years, and I’ve also picked up some basic Spanish on my own. Learning languages is fascinating because it opens up new ways to connect with people and cultures."
+    },
+    {
+        "instruction": "Do you think it’s challenging to learn a foreign language?",
+        "response": "Yes, learning a foreign language can be quite challenging. It requires a lot of dedication, practice, and patience, especially to grasp the cultural nuances and achieve fluency."
+    },
+    {
+        "instruction": "Do you think it’s necessary for Chinese students nowadays to learn foreign languages?",
+        "response": "Yes, I think it’s necessary for Chinese students to learn foreign languages nowadays. In our increasingly globalized world, knowing a foreign language can provide more opportunities, whether in education, career, or even travel."
+    },
+    {
+        "instruction": "Are there many small businesses in China?",
+        "response": "Yes, there are quite a few small businesses in my area, such as family-run restaurants, grocery stores, and handicraft shops. These small businesses add unique flavors and vibrancy to the community."
+    },
+    {
+        "instruction": "Do you know any small businesses?",
+        "response": "Yes, I know a few small businesses in my area. There’s a cozy café run by a local family that serves great coffee and homemade pastries. I also know a boutique that sells unique, handmade clothing and accessories."
+    },
+    {
+        "instruction": "Do you prefer buying things from big companies or small businesses?",
+        "response": "I prefer buying from small businesses as they often provide more personal service and quality products. It's also a way to support local entrepreneurs and the community."
+    },
+    {
+        "instruction": "Do you prefer buying things in supermarkets or small shops?",
+        "response": "For daily necessities, supermarkets are more convenient. But for specialty items or bargaining, I prefer small shops which offer unique products and a more personal shopping experience."
+    },
+    {
+        "instruction": "Have you ever worked in any small businesses?",
+        "response": "Yes, I’ve worked in a small business before. During college, I had a part-time job at a local bookstore. It was a great experience because I got to interact closely with customers and learn about running a business on a smaller scale."
+    },
+    {
+        "instruction": "Would you like to set up a small business?",
+        "response": "Running a small business could be rewarding as you get to be your own boss and have a flexible schedule. However, it also comes with many challenges that require hard work and perseverance."
+    },
+    {
+        "instruction": "Do you like science?",
+        "response": "Yes, I really enjoy science as it allows us to better understand the workings of the world around us. Science gives us an endless sense of curiosity and desire to explore."
+    },
+    {
+        "instruction": "Did you like learning science when you were young?",
+        "response": "As a student, I had a keen interest in science subjects. The lively and interesting explanations from teachers gave me an initial appreciation and love for science."
+    },
+    {
+        "instruction": "Do you use science in your daily life?",
+        "response": "Science is everywhere - many of the devices and products we use in daily life are the fruits of scientific advancements. Therefore, we are constantly applying scientific knowledge."
+    },
+    {
+        "instruction": "Is there any science you want to learn in the future?",
+        "response": "In the future, I hope to continue learning about cutting-edge scientific fields such as artificial intelligence and quantum computing, to explore new frontiers of science."
+    },
+    {
+        "instruction": "Is it necessary for people to learn science?",
+        "response": "Yes, I believe it’s necessary for people to learn science. Science helps us understand the world around us, from how things work to why certain events happen."
+    },
+    {
+        "instruction": "What do you usually do on weekends?",
+        "response": "On weekends, I like to relax and do fun activities. I often go outdoors for hiking or cycling. I also enjoy reading books and watching movies."
+    },
+    {
+        "instruction": "What did you do last weekend?",
+        "response": "Last weekend, I went to a nearby town with friends. We visited some interesting small shops and tried local foods. It was an enjoyable day trip."
+    },
+    {
+        "instruction": "Do you often work or study at weekends?",
+        "response": "No, I try not to work or study too much on weekends. I prefer to use that time to rest and have fun. But sometimes I need to handle urgent tasks."
+    },
+    {
+        "instruction": "What’s your favourite part of the weekend?",
+        "response": "My favorite part is being able to live at my own pace, without work or study obligations. I can freely do whatever activities I enjoy."
+    },
+    {
+        "instruction": "Do you think weekends are important to you?",
+        "response": "Yes, weekends are definitely important to me. They give me a chance to relax and recharge after a busy week."
+    },
+    {
+        "instruction": "Do you make plans for a weekend?",
+        "response": "Yes, I usually make plans for the weekend, even if they’re just simple ones. I might schedule time to meet friends, run errands, or just plan to relax at home."
+    },
+    {
+        "instruction": "Do you like eating chocolate?",
+        "response": "Yes, I really like eating chocolate. I especially enjoy rich, smooth dark chocolate. Chocolate is a delicious treat for me."
+    },
+    {
+        "instruction": "How often do you eat chocolate?",
+        "response": "I eat chocolate a couple of times a week, usually as a small treat after a meal or with a cup of coffee. I try not to overdo it, but it’s hard to resist when I’m craving something sweet."
+    },
+    {
+        "instruction": "Did you eat chocolate when you were a kid?",
+        "response": "When I was a child, I often ate chocolate candies. Chocolate was one of my favorite snacks and brought me lots of joy."
+    },
+    {
+        "instruction": "What’s your favourite flavour?",
+        "response": "My favorite flavor is definitely dark chocolate. I love its rich, slightly bitter taste, and it feels a bit more sophisticated than sweeter options."
+    },
+    {
+        "instruction": "Have you ever given chocolate as a gift to others?",
+        "response": "Yes, I’ve given chocolate as a gift many times. It’s a classic choice, especially for holidays or special occasions."
+    },
+    {
+        "instruction": "Do you think it’s good to give chocolate as a gift to others?",
+        "response": "Chocolate makes a great gift for others, whether for holidays or ordinary days. Giving chocolate can bring happiness and surprise."
+    },
+    {
+        "instruction": "Why do you think chocolate is popular around the world?",
+        "response": "I think chocolate is popular globally because of its unique flavor and texture that provides a pleasant experience. It also has some cultural roots."
+    },
+    {
+        "instruction": "Do you always bring a lot of keys with you?",
+        "response": "Yes, I usually carry several keys with me, like house keys, car keys and office keys. I keep them all on a key ring."
+    },
+    {
+        "instruction": "Have you ever lost your keys?",
+        "response": "I have lost my keys before. That experience taught me to be more careful about keeping track of my keys."
+    },
+    {
+        "instruction": "How often do you go to a library?",
+        "response": "I go to the library quite often, maybe every two or three weeks. The quiet environment is great for reading and studying."
+    },
+    {
+        "instruction": "Did you often go to a library when you were a child?",
+        "response": "Yes, I went to libraries frequently as a child. It was an important way for me to access knowledge and information."
+    },
+    {
+        "instruction": "Do Chinese children often go to libraries?",
+        "response": "Nowadays, Chinese children do visit libraries often, though more for studying purposes rather than leisure reading."
+    },
+    {
+        "instruction": "Did Chinese people often go to libraries when they were young?",
+        "response": "In the past, not as many Chinese people went to libraries when they were young compared to today. Libraries weren’t as widespread or accessible, especially in smaller towns."
+    },
+    {
+        "instruction": "Do you think it’s necessary to have libraries in university?",
+        "response": "Yes, I think it’s absolutely necessary to have libraries in universities. They provide essential resources for students, like academic books, research materials, and a quiet place to study."
+    },
+    {
+        "instruction": "Would you like to work in a library?",
+        "response": "Working in a library could be very meaningful, helping others gain knowledge and spread culture. If I had the opportunity, I would enjoy that job."
+    },
+    {
+        "instruction": "When did you start using the internet?",
+        "response": "I started using the internet in the late 1990s when dial-up connections were still common. The internet speeds were very slow back then."
+    },
+    {
+        "instruction": "How often do you use the internet?",
+        "response": "Nowadays, I use the internet every day for work, study, entertainment and social purposes. The internet has become part of our daily lives."
+    },
+    {
+        "instruction": "Do you think people always use mobile phones?",
+        "response": "Yes, I think people use mobile phones almost constantly these days. Whether it’s for staying connected, browsing social media, or just passing the time, our phones have become an integral part of daily life."
+    },
+    {
+        "instruction": "Do you think you spend too much time on the internet/your phone?",
+        "response": "Yes, I sometimes feel like I spend too much time on my phone, especially on social media and mindless scrolling. It can be easy to lose track of time, and I’m trying to be more mindful about setting limits and taking breaks to do other things."
+    },
+    {
+        "instruction": "What are the differences between reading things on the phone and paper?",
+        "response": "Reading on a phone is convenient because you can access a wide range of content instantly, and it’s easy to carry around. However, reading on paper feels more immersive, and it’s less straining on the eyes."
+    },
+    {
+        "instruction": "How does the Internet influence people?",
+        "response": "The internet has transformed how people access information and resources. It also facilitates communication and connections between people globally."
+    },
+    {
+        "instruction": "On what occasions are you not allowed to use a mobile phone?",
+        "response": "Using mobile phones is usually not permitted during events like exams, meetings or classes. This is to avoid distractions and prevent information leaks that could compromise the integrity of these occasions."
+    },
+    {
+        "instruction": "How would you feel if there was no internet?",
+        "response": "If there was no internet, I’d probably feel a bit lost at first because so much of my daily life relies on it—communication, work, entertainment, and even getting information."
+    },
+    {
+        "instruction": "Do you usually use numbers?",
+        "response": "Yes, I use numbers in my daily life for tasks like shopping, budgeting, and scheduling."
+    },
+    {
+        "instruction": "Are you good at remembering phone numbers?",
+        "response": "Yes, I use numbers in my daily life for tasks like shopping, budgeting, and scheduling. However, I don't use them extensively beyond basic calculations."
+    },
+    {
+        "instruction": "Are you good at maths?",
+        "response": "I would say I'm decent at math. While it's not my strongest subject, I can manage basic calculations and understand fundamental concepts."
+    },
+    {
+        "instruction": "What’s your favourite number?",
+        "response": "My favorite number is 7. It's a lucky number in many cultures, and I've always associated it with positivity and good fortune."
+    },
+    {
+        "instruction": "Would you use numbers in your job (in the future)?",
+        "response": "Yes, I’d likely use numbers in my job in the future. Whether it’s tracking progress, analyzing data, or managing finances, numbers play a crucial role in making informed decisions."
+    },
+    {
+        "instruction": "Is breakfast important for you?",
+        "response": "Yes, breakfast is important to me. It helps me start the day with energy and focus. If I skip it, I usually feel sluggish and less productive throughout the morning."
+    },
+    {
+        "instruction": "What’s your daily morning routine?",
+        "response": "My daily morning routine usually involves waking up, having breakfast, and then getting ready for the day. I also like to take a few minutes to check my emails or review my schedule before heading out."
+    },
+    {
+        "instruction": "Is your morning routine the same as that when you were young?",
+        "response": "No, my morning routine has changed a lot since I was young. Back then, I had more time to get ready, and I didn’t have as many responsibilities."
+    },
+    {
+        "instruction": "Do you want a different morning routine in the future?",
+        "response": "Yes, I’d like to have a more relaxed morning routine in the future. I’d love to incorporate activities like morning exercise or meditation to start the day on a positive note."
+    },
+    {
+        "instruction": "Have you seen the news this morning?",
+        "response": "No, I haven’t seen the news this morning yet. I usually catch up on the news later in the day when I have more time to sit down and read or watch it."
+    },
+    {
+        "instruction": "Do you often talk about the news with others?",
+        "response": "Yes, I often talk about the news with others, especially with friends or colleagues. It’s a good way to stay informed and exchange different perspectives on current events."
+    },
+    {
+        "instruction": "Would you like to be a journalist in the future?",
+        "response": "While I think being a journalist would be interesting, it’s not something I see myself doing in the future. I admire the work journalists do, but I prefer a career that allows me to teach and interact with people directly."
+    },
+    {
+        "instruction": "Which do you prefer, digital or paper books?",
+        "response": "Personally, I prefer reading paper books. There's something about the tactile experience and the smell of the pages that enhances the reading experience for me."
+    },
+    {
+        "instruction": "When do you usually read online?",
+        "response": "I usually read online articles or e-books in my free time, particularly during breaks or before bedtime. I find it convenient to access a wide range of reading materials on platforms like Kindle, Wattpad, or various news websites."
+    },
+    {
+        "instruction": "What are the benefits of reading e-books?",
+        "response": "Reading e-books offers several benefits. First, they’re incredibly convenient; you can carry thousands of books on a single device, making it easy to read anywhere."
+    },
+    {
+        "instruction": "What kinds of books do you like to read?",
+        "response": "I enjoy reading a variety of books, but I’m particularly drawn to fiction, especially mysteries and thrillers. I also like reading non-fiction, such as biographies and self-improvement books."
+    },
+    {
+        "instruction": "Do you think people spend much time reading books?",
+        "response": "I think it varies, but overall, many people today spend less time reading books compared to the past. With the rise of digital media, social media, and streaming services, people often turn to shorter, more immediate forms of entertainment."
+    },
+    {
+        "instruction": "What do you often like to share with others?",
+        "response": "I often like to share interesting articles, books, or music with others. If I come across something that I think a friend would enjoy or find useful, I love passing it along."
+    },
+    {
+        "instruction": "What do you not share with others?",
+        "response": "I tend not to share very personal details, like financial information or private thoughts, unless it’s with someone I trust deeply."
+    },
+    {
+        "instruction": "Did your family encourage/teach you to share something with others?",
+        "response": "Yes, my parents taught me the importance of sharing when I was a child. They encouraged me to share toys, snacks, and experiences with others, emphasizing the value of generosity and cooperation in building relationships."
+    },
+    {
+        "instruction": "What sports do/did you do at school?",
+        "response": "When I was in school, I participated in several sports. I played basketball and enjoyed it because it was a great way to stay active and work as part of a team."
+    },
+    {
+        "instruction": "What sports do you like?",
+        "response": "I enjoy playing tennis. I find it challenging and rewarding, especially when I can play against a good opponent."
+    },
+    {
+        "instruction": "What are the benefits of doing sports?",
+        "response": "Doing sports offers many benefits. Physically, it helps improve fitness, build strength, and maintain a healthy weight. Mentally, sports can reduce stress, boost mood, and enhance concentration. Socially, participating in sports can help you make new friends, develop teamwork skills, and build confidence."
+    },
+    {
+        "instruction": "Describe a person who loves to buy something with low prices.",
+        "response": "My aunt, Lisa, is a true bargain hunter. I've known her since I was a child, and she has always been the one to stretch her budget by finding the best deals. She mainly shops for clothes and kitchen gadgets, but she's always on the lookout for anything that promises value for money."
+    },
+    {
+        "instruction": "Describe a person you are happy to know.",
+        "response": "The person I am truly happy to know is my colleague, Mr. Zhang. We met at the school where we both teach, and I've known him for about three years now. He has become both a mentor and a friend to me during this time."
+    },
+    {
+        "instruction": "Describe an actor/actress that you admire.",
+        "response": "The actor I admire the most is Tom Hanks. I first came to know him through his role in the movie 'Forrest Gump,' which is one of my favorites. Since then, I've followed his career and watched many of his films, ranging from dramas to comedies."
+    },
+    {
+        "instruction": "Describe an interesting old person you’ve met.",
+        "response": "I met Mr. Wang, a fascinating elderly man, at a community center two years ago. He was a retired teacher who had taught history for over 30 years. Our first conversation happened quite by accident during a local history exhibition at the center, where he was a volunteer guide."
+    },
+    {
+        "instruction": "Describe a person who thinks music is important.",
+        "response": "The person I know who believes music is incredibly important and enjoys it immensely is my friend, Sarah. We met in college where we were both members of the music club, sharing our playlists and attending concerts together."
+    },
+    {
+        "instruction": "Describe someone (e.g. a famous person) who is a role model for young people.",
+        "response": "The famous person who I believe could be a role model for young people is Malala Yousafzai. I first learned about her through her autobiography and numerous interviews she has given. Her advocacy for girls' education and her personal story have made headlines around the world."
+    },
+    {
+        "instruction": "Describe someone who gave you encouragement.",
+        "response": "The person who encouraged me to achieve my goal is my mentor, Mr. Chen. He was my teacher during my university years and has continued to be a guiding figure in my professional life."
+    },
+    {
+        "instruction": "Describe a place (indoor or outdoors) that’s suitable for study.",
+        "response": "My favorite place to study is the local library in my neighborhood. It’s a small, two-story building surrounded by a quiet garden, which helps create a peaceful environment ideal for studying."
+    },
+    {
+        "instruction": "Describe a city where you would like to stay for a short time.",
+        "response": "The city where I want to stay for a short time is Kyoto, Japan. I plan to go there with my best friend, who shares my interest in Japanese culture and history."
+    },
+    {
+        "instruction": "Describe a city/town/village (not your hometown) you would like to live in.",
+        "response": "I would recommend Vancouver, Canada, as a nice place to live. It's a coastal city that boasts a unique mix of urban development alongside natural landscapes."
+    },
+    {
+        "instruction": "Describe a place you’ve been to where things are expensive.",
+        "response": "One place I've visited where things are notoriously expensive is the Ginza district in Tokyo, Japan. As I strolled through the immaculate streets lined with high-end shops and boutiques, I couldn't help but notice the extravagant window displays showcasing luxury goods from renowned brands."
+    },
+    {
+        "instruction": "Describe a place you visited where the air was not clean.",
+        "response": "During a recent business trip to a major industrial city, I experienced firsthand the effects of poor air quality. As soon as I stepped off the plane, a thick haze enveloped the surroundings, obscuring the once-clear skyline."
+    },
+    {
+        "instruction": "Describe a tourist attraction that very few people visit but you think it is interesting.",
+        "response": "Tucked away in a remote corner of our region lies a hidden gem, an off-the-beaten-path tourist attraction that few people venture to explore. This undiscovered treasure, nestled amidst rolling hills and winding roads, offers a unique and authentic experience for those willing to stray from the well-trodden tourist trails."
+    },
+    {
+        "instruction": "Describe an unusual meal that someone made for you.",
+        "response": "One special meal that stands out in my memory was made by my grandmother. It was during the winter holidays when I was a child, and the entire family had gathered at her house. My grandmother is a wonderful cook, and she always takes pride in preparing delicious meals for her family."
+    },
+    {
+        "instruction": "Describe a piece of technology you own that is difficult to use.",
+        "response": "In our rapidly evolving technological landscape, I recently acquired a cutting-edge gadget that promised to revolutionize my daily routine. However, despite its advanced features and sleek design, this particular piece of technology has proven to be a formidable challenge."
+    },
+    {
+        "instruction": "Describe something you own and want to replace now.",
+        "response": "Among the various possessions that have accompanied me through life's journey, there is one particular item that holds a special place in my heart, yet has reached a point where it no longer serves its purpose effectively."
+    },
+    {
+        "instruction": "Describe an important plant in your country.",
+        "response": "In my country, one important plant is the tea plant. Tea is cultivated extensively in regions with suitable climates, such as hillsides and mountainous areas. The tea plant typically has dark green leaves and produces small white flowers when in bloom."
+    },
+    {
+        "instruction": "Describe a new law that you would like to see/introduce in your country.",
+        "response": "One new law that I would like to see in my country is mandatory recycling legislation. This law would require households and businesses to separate recyclable materials from their regular waste and provide recycling bins for collection."
+    },
+    {
+        "instruction": "Describe a sport you’ve watched/seen and you would like to try.",
+        "response": "One sport I've never done but would like to try is rock climbing. I first learned about rock climbing from documentaries and social media platforms showcasing climbers scaling breathtaking rock faces in exotic locations."
+    },
+    {
+        "instruction": "Describe an advertisement you’ve seen that you didn’t like.",
+        "response": "One advertisement I saw that I didn't like was for a fast-food chain promoting their new burger. I first encountered it while watching TV during primetime. The advertisement featured flashy visuals of the burger, accompanied by upbeat music and exaggerated claims about its taste and quality."
+    },
+    {
+        "instruction": "Describe a website you often visit.",
+        "response": "One website I frequently visit is Reddit, a social news aggregation and discussion platform. I initially discovered Reddit through a friend who recommended it to me as a great source for diverse content and discussions."
+    },
+    {
+        "instruction": "Describe a good decision made by someone you know recently.",
+        "response": "A close friend of mine recently made the decision to quit her corporate job and pursue her passion for photography full-time. She had been working in finance for several years but always felt unfulfilled."
+    },
+    {
+        "instruction": "Describe something/a subject you want to/would like to learn in the future.",
+        "response": "One subject I would like to learn in the future is graphic design. I'm interested in learning how to create visually appealing designs for various purposes, such as advertisements, websites, and branding materials."
+    },
+    {
+        "instruction": "Describe a daily routine you do.",
+        "response": "One daily routine that I enjoy is practicing mindfulness meditation in the morning. I started following this routine about a year ago after reading about the benefits of mindfulness for mental health and well-being."
+    },
+    {
+        "instruction": "Describe a time when you heard good news (from someone with a good relationship).",
+        "response": "I vividly remember a sunny afternoon a few months ago when I received a call from my best friend, Sarah. It was around midday, and I was working on some tasks at home. As soon as I heard her voice, I could tell she was brimming with excitement."
+    },
+    {
+        "instruction": "Describe a time when you missed or were late for an important meeting/event.",
+        "response": "I vividly remember a time when I forgot an important appointment, causing me to be late for a meeting. It happened last year when I was supposed to attend a job interview for a position I was really excited about."
+    },
+    {
+        "instruction": "Describe a time when you showed something new to others (e.g. family or friends).",
+        "response": "I recall a time when I taught my younger brother how to ride a bicycle. He had been eager to learn for some time, and I decided to take on the task of teaching him."
+    },
+    {
+        "instruction": "Describe a time when you took a risk.",
+        "response": "One significant risk I took was when I decided to quit my stable job to pursue entrepreneurship. It was about two years ago when I made this decision."
+    },
+    {
+        "instruction": "Describe an occasion that you needed to wear your best clothes.",
+        "response": "On a particularly special occasion, I recall the time when I was invited to attend a formal wedding ceremony. The grandeur and elegance of the event required me to dress to the nines."
+    },
+    {
+        "instruction": "Describe a time you got something you wanted.",
+        "response": "A memorable occasion when someone gave me something I really wanted was when my best friend surprised me with a guitar for my birthday. It was a Saturday evening, just before my 25th birthday, and the gift arrived in a beautifully wrapped box."
+    },
+    {
+        "instruction": "Describe an enjoyable journey by public transport.",
+        "response": "One of the most enjoyable journeys I've ever had was on a train to the charming city of Edinburgh. It was a day trip that I took with my family, and we were all eager to explore the historical city and its unique culture."
+    },
+    {
+        "instruction": "Describe a time you did something that made you feel proud.",
+        "response": "One time that made me feel really proud was when I successfully organized a charity event at my university. This happened during my final year, and I was leading a student group that wanted to raise funds for a local children’s hospital."
+    }
+]

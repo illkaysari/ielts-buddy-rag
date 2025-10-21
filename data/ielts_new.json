@@ -1,0 +1,318 @@
+[
+    {
+        "instruction": "Do you have a bike now?",
+        "response": "Yes, I do have a bike now. I use it mainly for short trips around my neighborhood, like going to the supermarket or visiting friends. It's a great way to stay active and avoid traffic."
+    },
+    {
+        "instruction": "Did you have a bike when you were young?",
+        "response": "Yes, I had a bike when I was young. I used to ride it around the park with my friends, and it was one of my favorite activities. It gave me a sense of freedom and adventure."
+    },
+    {
+        "instruction": "Do you think riding bikes is popular in your country?",
+        "response": "Yes, riding bikes is quite popular in China, especially in big cities. Many people use shared bikes for short trips because it's convenient and environmentally friendly. Plus, it's a great way to avoid traffic and get some exercise."
+    },
+    {
+        "instruction": "Do you often take coins with you?",
+        "response": "Not really, I don't often carry coins with me. I usually prefer to use my debit card or mobile payments for convenience. Coins can be a bit heavy and cumbersome to carry around."
+    },
+    {
+        "instruction": "Have you collected coins?",
+        "response": "Yes, I used to collect coins when I was a child. I was fascinated by different designs and shapes, especially foreign coins. It was a fun hobby that helped me learn about different cultures."
+    },
+    {
+        "instruction": "Is it convenient to use coins?",
+        "response": "Not really, using coins isn't that convenient nowadays. Many places prefer digital payments, and coins can be a hassle to manage. They tend to pile up and make your wallet heavy."
+    },
+    {
+        "instruction": "Do you use coins in your daily life?",
+        "response": "Not much, actually. Nowadays, I mostly use digital payments or credit cards for daily transactions. Coins have become less common for me, but I still keep some around just in case I need them for small purchases or parking meters."
+    },
+    {
+        "instruction": "Did you use coins as a child?",
+        "response": "Yes, I used coins a lot when I was a child. They were handy for buying snacks from the local shop or for taking the bus. I remember saving up coins in a piggy bank, which was a fun way to learn about saving money."
+    },
+    {
+        "instruction": "Are the roads in the area where you live busy?",
+        "response": "Yes, the roads in my area are quite busy, especially during rush hours. There’s a lot of traffic because it's a popular neighborhood with many shops and businesses. You often hear honking and see people rushing around."
+    },
+    {
+        "instruction": "How do people cross the road in the city where you live?",
+        "response": "In my city, people usually cross the road at designated crosswalks or traffic lights. However, some people also jaywalk when they're in a hurry, which can be dangerous. Most of the time, drivers are quite cautious and slow down for pedestrians."
+    },
+    {
+        "instruction": "How is the condition of the roads in your city?",
+        "response": "The condition of the roads in my city is generally good, but there are some areas with potholes and uneven surfaces. The city government repairs them regularly, but it can take some time. Overall, they're manageable for daily commutes."
+    },
+    {
+        "instruction": "Do you think the roads in your city need improvement?",
+        "response": "Yes, I think the roads in my city could use some improvement, especially in the older parts of town. Better maintenance and more bike lanes would help a lot. Also, improving the drainage system would prevent flooding during heavy rains."
+    },
+    {
+        "instruction": "How many roads are there in your neighborhood?",
+        "response": "There aren’t too many roads in my neighborhood, just a few quiet streets. Most of them are lined with trees, and they’re usually not too busy. It’s a pretty peaceful area, so you don’t hear much traffic noise. I really like the calm vibe around here."
+    },
+    {
+        "instruction": "Do you like perfume? Why?",
+        "response": "Yes, I do like perfume. It adds a nice touch to my daily routine and makes me feel more confident. Plus, a good scent can leave a lasting impression on others."
+    },
+    {
+        "instruction": "Do you have many bottles of perfume? Why?",
+        "response": "I have a few bottles of perfume, but not too many. I like to have different scents for different occasions. It’s nice to switch things up depending on my mood or the event."
+    },
+    {
+        "instruction": "Would you ever give perfume as a gift?",
+        "response": "Yes, I would definitely consider giving perfume as a gift. It’s a classic choice and can be very meaningful if you pick the right scent. It’s something that people can use and appreciate."
+    },
+    {
+        "instruction": "Which means of transport is convenient?",
+        "response": "In big cities, the subway is probably the most convenient. It’s fast, avoids traffic, and has stations all over the city. You can get to almost anywhere without much hassle."
+    },
+    {
+        "instruction": "Which means of transport is expensive?",
+        "response": "Taxis and ride-sharing services tend to be the most expensive, especially for long distances. Air travel can also be pricey, particularly if you’re booking last minute."
+    },
+    {
+        "instruction": "What are the advantages of using public transport?",
+        "response": "Public transport is cost-effective and eco-friendly. It reduces the number of cars on the road, helping to decrease traffic congestion. Plus, it’s a great way to reduce your carbon footprint."
+    },
+    {
+        "instruction": "Do you enjoy watching funny movies?",
+        "response": "Yes, I really enjoy watching funny movies. They always lighten my mood and help me relax after a long day. I think it's great to have a good laugh and forget about stress for a while."
+    },
+    {
+        "instruction": "Do you think you are a funny person?",
+        "response": "I like to think I have a good sense of humor and can make people laugh sometimes. I enjoy joking around with my friends and making them smile. I wouldn't say I'm the funniest person, but I do try to keep things light-hearted."
+    },
+    {
+        "instruction": "Do you always laugh at funny things?",
+        "response": "Most of the time, I do laugh at funny things. I love a good joke or a funny story. Sometimes, even little things can make me chuckle, like a funny meme or a silly situation."
+    },
+    {
+        "instruction": "What is the view like around the place where you live?",
+        "response": "The view around where I live is quite nice. There are a few parks nearby, and I can see some greenery and trees from my window. It's a calm and peaceful neighborhood, which makes it a pleasant place to relax."
+    },
+    {
+        "instruction": "Have you seen an unforgettable view?",
+        "response": "Yes, I once saw an unforgettable view when I visited a mountain range at sunrise. The sky was painted in shades of pink and orange, and the mist over the mountains made it look like a scene from a painting. It was truly breathtaking."
+    },
+    {
+        "instruction": "Will you take photos if you see a good view?",
+        "response": "Definitely! If I see a good view, I love to capture it with my camera. Taking photos is a great way to remember beautiful moments and share them with friends and family."
+    },
+    {
+        "instruction": "Did you do a lot of teamwork when you were a child?",
+        "response": "Yes, I did quite a bit of teamwork as a child, especially in school. We had group projects and sports activities that required us to collaborate and communicate with each other. It was a great way to learn about working with others and building friendships."
+    },
+    {
+        "instruction": "Do you like teamwork?",
+        "response": "Yes, I generally like teamwork because it allows people to combine their strengths and come up with better ideas. It’s also a great way to learn from others and improve my own skills. However, it can sometimes be challenging if people don’t work well together."
+    },
+    {
+        "instruction": "Have you teamed up with someone else before?",
+        "response": "Yes, I have teamed up with others many times, both in school and at work. I’ve worked on group projects, participated in team sports, and collaborated on various tasks. These experiences have helped me understand the importance of cooperation and communication."
+    },
+    {
+        "instruction": "What do you learn from working in a team?",
+        "response": "Working in a team teaches me how to communicate effectively, listen to different opinions, and respect others' ideas. It also helps me develop problem-solving skills and learn how to work towards a common goal. Overall, teamwork is a great way to grow both personally and professionally."
+    },
+    {
+        "instruction": "What do you dislike about teamwork?",
+        "response": "One thing I dislike about teamwork is when not everyone puts in the same amount of effort. It can be frustrating when some team members don’t pull their weight or when there are disagreements that slow down progress. But I try to stay positive and focus on finding solutions."
+    },
+    {
+        "instruction": "What films do you like?",
+        "response": "I enjoy a wide range of films, but I’m particularly fond of action and adventure movies. They’re exciting and keep me on the edge of my seat. I also like movies with a good storyline and strong characters."
+    },
+    {
+        "instruction": "Did you often watch films when you were a child?",
+        "response": "Yes, I watched a lot of films when I was a child. My family used to have movie nights every weekend. It was a great way to spend time together, and I always looked forward to it."
+    },
+    {
+        "instruction": "Do you think going to the cinema is a good way to spend time with friends?",
+        "response": "Definitely! Going to the cinema is a fun way to hang out with friends. You can enjoy a movie together and then chat about it afterward, which makes for a great shared experience."
+    },
+    {
+        "instruction": "Do you like to talk with others?",
+        "response": "Yes, I do enjoy talking with others. I find it interesting to learn about different perspectives and share experiences. It’s a great way to build connections and make new friends."
+    },
+    {
+        "instruction": "Do you like to talk a lot with others?",
+        "response": "It depends on the situation. I like to talk a lot when I’m with close friends or family, but in larger groups, I tend to listen more. I think a good balance between talking and listening is important."
+    },
+    {
+        "instruction": "Did you like to talk with others when you were a child?",
+        "response": "Yes, I loved talking with others when I was a child. I was very curious and always asked a lot of questions. I enjoyed learning new things and making friends through conversations."
+    },
+    {
+        "instruction": "Do you like eating fish?",
+        "response": "Yes, I really enjoy eating fish. It’s healthy and there are various ways to cook it. My favourite is grilled fish with some herbs and lemon."
+    },
+    {
+        "instruction": "Have you ever been fishing?",
+        "response": "Yes, I’ve been fishing a few times. It’s a relaxing activity, especially when you’re out on a boat. I don’t always catch something, but it’s fun just to be out in nature."
+    },
+    {
+        "instruction": "Is fishing a very popular activity in your country?",
+        "response": "Fishing is quite popular in my country, especially in coastal and rural areas. Many people enjoy it as a weekend hobby, and it’s also a big part of the local culture in some regions."
+    },
+    {
+        "instruction": "What free time activities are popular with people in your country?",
+        "response": "In my country, a lot of people enjoy going to cafes with friends, watching movies, or spending time outdoors in parks. Many also like to exercise, whether that’s jogging or going to the gym. On weekends, some prefer to visit malls for shopping or just to relax."
+    },
+    {
+        "instruction": "What do you do when you have free time?",
+        "response": "When I have some free time, I usually read books or catch up on my favorite TV series. I also like to go for a walk to clear my head. If I have more time, I might meet up with friends for a meal."
+    },
+    {
+        "instruction": "What is the difference between the way people spend their free time now and in the past?",
+        "response": "In the past, people spent more time doing outdoor activities or simple hobbies like reading and knitting. Nowadays, many people spend their free time on their phones or watching shows online. Technology has definitely changed how we relax and entertain ourselves."
+    },
+    {
+        "instruction": "Do you like making friends?",
+        "response": "Yeah, I do enjoy making new friends. It’s always interesting to meet people with different backgrounds and perspectives. Plus, it’s nice to have more people to share experiences with. I find that it helps me grow as a person."
+    },
+    {
+        "instruction": "Did you make a lot of friends when you were a child?",
+        "response": "Not really, I was actually a bit shy when I was a kid. I had a small group of close friends, and we used to play together all the time. It wasn’t until later that I became more outgoing and started making more friends."
+    },
+    {
+        "instruction": "Have you ever made any new friends recently?",
+        "response": "Yeah, I’ve made a few new friends recently. I joined a local club, and it’s been a great way to meet new people. We usually hang out on weekends and have fun together."
+    },
+    {
+        "instruction": "What do you often talk about with your new friends?",
+        "response": "We talk about all sorts of things, from work and hobbies to travel and future plans. Sometimes, we just share funny stories or talk about things happening in the news. It’s nice to have different conversations depending on the mood."
+    },
+    {
+        "instruction": "Should you share your secrets with your friends?",
+        "response": "I think it depends on how much you trust the person. If you’re really close and feel comfortable, it’s okay to share some personal things. But I wouldn’t share every secret with every friend – some things are better kept private."
+    },
+    {
+        "instruction": "Do you have a favourite teacher?",
+        "response": "Yes, I have a favorite teacher from high school. She taught English and always made the class interesting and engaging. She had a way of explaining things that really helped me understand and enjoy the subject more."
+    },
+    {
+        "instruction": "Would you like to work as a teacher?",
+        "response": "I think working as a teacher would be rewarding because you get to help students learn and grow. It seems like a meaningful job where you can make a real difference in people's lives. Plus, it's a great way to share your knowledge and passion with others."
+    },
+    {
+        "instruction": "Are you still in touch with your primary school teachers?",
+        "response": "Not really, I lost touch with most of my primary school teachers over the years. I sometimes wonder how they are doing, but I haven't had the chance to reconnect. It would be nice to catch up with them someday."
+    },
+    {
+        "instruction": "What is your favorite place to study?",
+        "response": "I like studying at a quiet café near my house. It has a cozy atmosphere, and I can focus well there. Plus, the coffee keeps me energized when I need it."
+    },
+    {
+        "instruction": "Do you prefer to study at home or in a library?",
+        "response": "I usually prefer studying at home because it’s more comfortable. I can take breaks whenever I want, and all my study materials are within reach. But sometimes, the library helps me stay more disciplined."
+    },
+    {
+        "instruction": "Do you prefer to work at home or in the workplace?",
+        "response": "I prefer working in the office because it’s easier to collaborate with colleagues. However, working from home has its perks, like avoiding the commute. It really depends on what tasks I need to focus on."
+    },
+    {
+        "instruction": "Describe an old friend you didn't contact for a long time and got in contact with again.",
+        "response": "I recently reconnected with an old friend named Lisa, who I hadn’t spoken to in years. We met in high school and quickly became close friends, bonding over our love for books and movies. However, after graduating, we lost touch because we went to different universities in different cities. Life got busy, and we just drifted apart. A few months ago, I stumbled upon her profile on social media and decided to send her a message. To my surprise, she replied right away, and we picked up right where we left off. It felt so good to talk to her again and catch up on each other’s lives. I realized how much I had missed our conversations and her sense of humor. Reconnecting with her reminded me of the importance of keeping in touch with old friends."
+    },
+    {
+        "instruction": "Describe a person who always has strong opinions.",
+        "response": "One person I know who always has strong opinions is my colleague, Mark. I met him at my current job a few years ago, and we’ve worked on several projects together. Mark is someone who never hesitates to express his thoughts, no matter how controversial they might be. He’s very passionate about his beliefs and isn’t afraid to challenge others if he disagrees with them. I think he’s opinionated because he reads a lot and stays well-informed about current events, which makes him confident in his views. Sometimes, his strong opinions can be a bit overwhelming, especially during meetings, but I also appreciate that he’s honest and straightforward. He adds a lot of energy to discussions and often brings up points that others might not consider."
+    },
+    {
+        "instruction": "Describe a person who has chosen a career in the medical field.",
+        "response": "A person I know who has chosen a career in the medical field is my cousin, Lisa. Lisa and I grew up together, and I've always admired her dedication and passion for helping others. She decided to become a doctor after volunteering at a local hospital during her high school years. She saw firsthand the impact that good medical care can have on people’s lives, and this inspired her to pursue a career in medicine. She wanted to make a difference and help those in need. I feel incredibly proud of her because becoming a doctor requires a lot of hard work, commitment, and sacrifice. She has faced many challenges, but her determination and genuine desire to help others keep her going. I think she’s a true role model for anyone considering a career in healthcare."
+    },
+    {
+        "instruction": "Describe a person who likes to make things by hand (e.g. toys, furniture).",
+        "response": "I’d like to talk about my friend Emily. She loves to make things by hand, especially toys and small pieces of furniture. Emily is incredibly creative and enjoys using her hands to craft unique items. She likes to make things by hand because she finds it therapeutic and satisfying to see a project come to life from start to finish. She also appreciates the personal touch that handmade items have, which makes them more special than something bought from a store. I really admire Emily for her dedication and passion for her craft. It’s inspiring to see someone put so much love and effort into what they do, and her creations always have a warmth and charm that you can’t find in mass-produced products."
+    },
+    {
+        "instruction": "Describe a person who likes to read a lot.",
+        "response": "My friend Sarah is someone who loves to read a lot. She always has a book with her, no matter where she goes. Sarah enjoys reading a wide range of genres, but her favorites are mystery novels and historical fiction. I know she likes to read because she often talks about the latest book she’s reading and shares interesting facts or stories she’s learned. She even has a big bookshelf at home filled with all the books she has read over the years. I think Sarah likes to read because it allows her to escape into different worlds and learn about new things. She says it helps her relax and unwind after a long day, and I can see how happy it makes her."
+    },
+    {
+        "instruction": "Describe a place in your city where you have seen wild animals.",
+        "response": "There’s a place in my city called Green Park where I’ve seen wild animals. It's located on the outskirts of town, away from the busy city center. The park has a large natural reserve area where various animals like squirrels, rabbits, and even some deer roam freely. I’ve also spotted different species of birds and the occasional fox. Green Park is quite popular among nature lovers and photographers, so it can get a bit crowded on weekends. However, because the park is so large, you can still find quiet spots to observe the wildlife. I always feel a sense of peace and connection with nature when I visit. It’s a great escape from the hustle and bustle of city life, and I love watching the animals in their natural habitat."
+    },
+    {
+        "instruction": "Describe an ideal and perfect place where you would like to stay, e.g. a house or an apartment.",
+        "response": "My ideal place to stay would be a cozy house by the beach, somewhere along the coast in southern Spain. The house would have a simple, elegant design with large windows that let in plenty of natural light and offer a stunning view of the ocean. It would be surrounded by a small garden filled with colorful flowers and a few fruit trees. Inside, there would be an open living space with a modern kitchen, a comfortable reading nook, and a spacious balcony where I could relax and enjoy the sea breeze. One special feature would be a private path leading directly to the beach, perfect for early morning walks. This place would be ideal for me because I love being close to nature, especially the ocean. It would provide a peaceful and inspiring environment where I could unwind and feel truly at home."
+    },
+    {
+        "instruction": "Describe a crowded place you've been to.",
+        "response": "A crowded place I’ve been to is the Great Wall of China during the Golden Week holiday. I visited it last October with a group of friends. We chose to go during this time because we thought the autumn scenery would be beautiful, but we didn’t anticipate how packed it would be. When we arrived, the place was filled with tourists from all over the country and the world. We spent most of the day slowly making our way along the wall, taking pictures, and enjoying the incredible views despite the crowds. Although it was overwhelming at times with so many people around, I still felt a sense of awe and wonder. Being at such a historical and iconic site, even amidst the chaos, was a memorable experience. It made me appreciate the rich history and cultural significance of the Great Wall."
+    },
+    {
+        "instruction": "Describe a cultural place that you would like to learn the culture there.",
+        "response": "A cultural place I would love to explore is the Louvre Museum in Paris, France. I’ve known about this iconic museum since I was a child, through books, documentaries, and stories from friends who have visited. The Louvre is home to an incredible collection of art and artifacts from different cultures and historical periods, such as the Mona Lisa and the Venus de Milo. You can learn so much there about European art history, the evolution of different artistic movements, and the cultural influences that shaped them. I am particularly interested in understanding the French Renaissance period and how art reflects the social and political contexts of its time. I would like to learn the culture there because it offers a deep dive into the rich heritage of Europe, and visiting such a world-renowned museum would be both inspiring and educational."
+    },
+    {
+        "instruction": "Describe someone's room where you enjoy spending time.",
+        "response": "I love spending time in my friend Anna’s room. It’s cozy and beautifully decorated with lots of warm colors and soft lighting. Her room has a comfy sofa piled with cushions, a huge bookshelf filled with interesting novels, and a small desk where she works on her art projects. There’s also a large window with a great view of the garden, which lets in plenty of natural light. When I’m there, I enjoy reading one of her books, chatting with her, or just relaxing and looking out at the garden. The atmosphere is always calm and inviting, and her taste in decor makes it feel like a little retreat from the world. That’s why I always look forward to hanging out there."
+    },
+    {
+        "instruction": "Describe a public garden or park.",
+        "response": "There’s a park near my house called East Coast Park. It’s right by the sea, so there’s always a nice breeze, and you can hear the sound of the waves. The park is huge, with plenty of spots to relax, have a picnic, or ride bikes. I usually go there once or twice a month, especially on weekends. Every time I visit, I feel calm and refreshed because it's a great escape from the busy city life."
+    },
+    {
+        "instruction": "Describe a small shop or store you often go to.",
+        "response": "There’s a small bakery I visit quite often near my apartment. It’s just a five-minute walk from my place, which makes it really convenient. The last time I went there was actually last weekend. I usually stop by once or twice a week to grab a coffee and some fresh pastries. The bakery has this really warm and cozy atmosphere, and the staff are always friendly, which makes me feel welcome. I keep going back because their bread and pastries are always fresh, and I love supporting local businesses. Plus, it’s a nice break from the bigger, more crowded stores in the area."
+    },
+    {
+        "instruction": "Describe the most expensive item you have ever bought.",
+        "response": "The most expensive item I have ever bought is a high-end laptop. I purchased it about a year ago from an electronics store in Beijing. I needed a reliable device for my work as an IELTS teacher and for personal projects like writing and video editing. I use it every day for lesson planning, conducting online classes, and creating educational content. I decided to buy this laptop because my previous one was slow and frequently crashed, which was frustrating and unproductive. I chose a model with a powerful processor, a high-resolution screen, and plenty of storage to ensure it could handle all my tasks smoothly. Although it was a significant investment, it has proven to be worth every penny because it has made my work more efficient and enjoyable."
+    },
+    {
+        "instruction": "Describe a traditional food at a traditional festival or a special event in your country.",
+        "response": "One traditional food that I love is mooncakes, which are eaten during the Mid-Autumn Festival in China. Mooncakes are small, round pastries that have a thick filling, usually made of red bean paste, lotus seed paste, or salted egg yolks. They are often beautifully decorated with patterns on top and sometimes filled with nuts and seeds. Mooncakes are usually baked until golden brown and have a rich, sweet flavor. We eat them while celebrating the festival with family, enjoying the full moon, and appreciating the time spent together. I like mooncakes because they remind me of family gatherings and the joy of celebrating our culture. Plus, they’re delicious and come in so many varieties!"
+    },
+    {
+        "instruction": "Describe a picture or photo in your home that you like.",
+        "response": "There’s a family photo hanging in my living room that I really love. It’s a picture of my parents, my siblings, and me during a holiday we took a few years ago. We’re all standing by the beach, smiling, with the sunset in the background. I placed it in the living room because it reminds me of a happy time we spent together. My dad actually took the photo, which makes it even more special. This picture is meaningful to me because it captures a rare moment when we were all relaxed and enjoying each other’s company."
+    },
+    {
+        "instruction": "Describe an online video where you learned something new.",
+        "response": "I recently watched an online video on YouTube about basic cooking techniques. I watched it last month at home, during the weekend when I had some free time. The video was a tutorial by a professional chef who demonstrated how to chop vegetables correctly, cook perfect pasta, and make a simple sauce from scratch. I decided to watch it because I wanted to improve my cooking skills and start preparing healthier meals at home. From this video, I learned some useful knife skills, such as how to hold a knife properly and different cutting techniques. It also taught me the importance of timing and seasoning in cooking, which has made a big difference in the dishes I make now. Overall, it was an eye-opening experience, and it boosted my confidence in the kitchen."
+    },
+    {
+        "instruction": "Describe a challenge you faced that you thought was rather difficult.",
+        "response": "One of the most challenging situations I faced was when I had to deliver a presentation in English at an international conference last year in Shanghai. Although I’ve been studying English for years, speaking in front of a large audience, especially one filled with native speakers, was incredibly daunting. I had prepared my speech thoroughly, but as the day approached, I began to doubt my language skills and my ability to engage the audience. It felt like an uphill battle because I was worried about making mistakes or not being understood. At the time, I was filled with anxiety and self-doubt. However, I knew this was a great opportunity for personal growth. Despite the fear, I pushed myself to go through with it, and afterward, I felt a great sense of accomplishment. It taught me the value of stepping out of my comfort zone and facing my fears head-on."
+    },
+    {
+        "instruction": "Describe a prize you have received.",
+        "response": "A prize that stands out in my memory is a medal I received for completing a marathon a couple of years ago. I got it in the fall of 2021 when I participated in my first-ever marathon in Beijing. To earn this medal, I had to push myself both physically and mentally for months. I remember waking up early every morning to train, slowly increasing my distance each week, and building my stamina. Crossing the finish line was a moment of pure joy and relief, but also disbelief—I couldn’t believe I had actually done it! Receiving the medal was such a rewarding experience. It wasn’t just a piece of metal; it symbolized all the hard work, determination, and perseverance I had put into reaching my goal. It gave me a deep sense of pride and accomplishment."
+    },
+    {
+        "instruction": "Describe a film that you watched recently.",
+        "response": "A few weeks ago, I watched a movie called Oppenheimer. It's a historical drama about the life of J. Robert Oppenheimer, the scientist behind the creation of the atomic bomb. I saw it at a cinema with a friend, and we both really enjoyed it. The film was intense and thought-provoking, especially how it showed the ethical dilemmas faced by scientists during that time. I wanted to discuss it because it wasn’t just entertaining, but it also made me think deeply about the impact of science on society. I’d definitely recommend it to anyone who enjoys history and complex characters."
+    },
+    {
+        "instruction": "Describe a time when you answered a phone call from someone you didn't know in a public place.",
+        "response": "I remember a time when I answered a phone call from an unknown number while I was at a café. It happened last month when I was having coffee and reading a book. I picked up the call, and it turned out to be a woman who had dialed the wrong number. She asked if she was speaking to 'John,' but I told her she had the wrong person. She apologized and explained that she was trying to reach a friend about an urgent matter. I responded politely, letting her know it was no problem, and she quickly hung up. The whole experience was a bit awkward because I was in a quiet public place, and I felt like people around me might be listening. However, it also made me realize the importance of being patient and understanding when such situations occur."
+    },
+    {
+        "instruction": "Describe something that made you feel confident.",
+        "response": "One thing that made me feel confident was giving a presentation at work last year. It happened during an important meeting with our team and some senior managers. I had spent a lot of time preparing and researching the topic, and I knew the content inside out. When it was my turn to present, I felt a bit nervous at first, but as I started speaking and saw the positive reactions from the audience, my confidence grew. Successfully delivering the presentation and answering all the questions made me realize that I could communicate my ideas clearly and effectively. This experience boosted my self-esteem and helped me feel more self-assured in professional settings. I felt proud of myself and motivated to take on more challenges."
+    },
+    {
+        "instruction": "Describe a time when you lost a valuable item.",
+        "response": "I remember losing my wallet last winter while I was traveling in Guangzhou. The wallet wasn’t just valuable because of the cash inside; it also held my ID, bank cards, and a few sentimental items like a photo of my family. It was worth around 500 yuan, but its sentimental value was priceless. I think I lost it when I was rushing to catch a train. I had placed it in the outer pocket of my bag, and somehow, in the chaos of getting through security, it must have slipped out. When I realized it was gone, I felt a wave of panic and frustration. I retraced my steps and asked the station staff, but it was nowhere to be found. It was a stressful experience, but it also taught me to be more careful and aware of my belongings, especially when traveling."
+    },
+    {
+        "instruction": "Describe a time when you asked someone for advice.",
+        "response": "A time when I asked someone for advice was when I was considering a career change a couple of years ago. I turned to my mentor, Mr. Chen, who has always been a great source of wisdom and guidance. I sought his advice because I was feeling uncertain and anxious about leaving my stable job for a new opportunity that seemed risky but exciting. I explained my situation to him, and he listened carefully before giving his advice. He suggested that I weigh the pros and cons of both options and think about what would make me happiest in the long run. He also reminded me that taking calculated risks can lead to personal growth. I felt his advice was thoughtful and practical, and it helped me feel more confident in making my decision. I ultimately decided to take the new job, and I’ve been happier ever since."
+    },
+    {
+        "instruction": "Describe a party that you enjoyed.",
+        "response": "Last month, I attended a birthday party for my best friend at a cozy rooftop café in the city. The party was small, with just a few close friends and family members. It was a surprise party, so the excitement in the air was palpable. We had a lot of fun playing games, sharing stories, and enjoying the delicious food. What made this party special was the warm atmosphere and the fact that everyone was there to celebrate someone we all cared about. I left the party feeling happy and grateful for such a wonderful time with friends."
+    },
+    {
+        "instruction": "Describe a time when you helped your family member.",
+        "response": "Last year, I helped my sister when she was preparing for her university entrance exams. It was a stressful time for her, and she needed support with some subjects, especially math. I would sit with her every evening, going through practice questions and explaining difficult concepts. I helped her because I knew how important these exams were, and I wanted her to feel confident. It was a rewarding experience for me because, in the end, she passed her exams with flying colors. I felt proud that I could be there for her and make a difference."
+    },
+    {
+        "instruction": "Describe an occasion when you received good service from a company or shop.",
+        "response": "A few months ago, I went to a small electronics store to buy a new laptop. The staff was incredibly helpful, especially one employee who really knew his stuff. He patiently explained the differences between various models and even recommended a more affordable option that suited my needs perfectly. The store was located near my workplace, so it was very convenient. What really impressed me was how honest and friendly the service was. They weren’t just trying to sell me the most expensive product—they genuinely wanted to help me find the right laptop. That’s why I felt it was excellent service."
+    }
+]
