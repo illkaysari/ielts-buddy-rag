@@ -1,88 +1,85 @@
 # 🧠 IELTS Buddy RAG Chatbot  
-**Akbank GenAI Bootcamp – Yeni Nesil Proje Kampı**  
+*Akbank GenAI Bootcamp – Next Generation Project Camp*
 
-Bu proje kapsamında, **Retrieval-Augmented Generation (RAG)** mimarisi kullanılarak bir **IELTS konuşma pratiği chatbot’u** geliştirilmiştir.  
-Chatbot, kullanıcıdan gelen sorulara IELTS Speaking part'ındaki örnek soru-cevap veri seti üzerinden anlam temelli yanıtlar üretir.  
-
----
-
-## 🎯 Projenin Amacı  
-Bu çalışmanın amacı, dil öğrenen kullanıcıların IELTS Speaking sınavına hazırlanırken **doğal ve kişiselleştirilmiş yanıtlar** üretebilen bir yapay zeka destekli asistan ile etkileşim kurmasını sağlamaktır.  
-Chatbot, hem örnek yanıtlardan **doğrudan bilgi çekebilir** (retrieval) hem de **Gemini API** aracılığıyla yeni, özgün cevaplar **üretebilir (generation)**.  
+This project presents an *IELTS speaking practice chatbot* built using *Retrieval-Augmented Generation (RAG)* architecture. The chatbot generates semantically grounded responses to user queries by drawing from a dataset of IELTS Speaking sample question-answer pairs.
 
 ---
 
-## 📊 Veri Seti  
+## 🎯 Project Goal
 
-Kullanılan veri seti, **IELTS Speaking Part 1-2-3** bölümlerine ait örnek soru-cevaplardan oluşmaktadır.  
-Her kayıt şu formatta yapılandırılmıştır:  
+The aim of this project is to enable language learners preparing for the IELTS Speaking exam to interact with an AI-powered assistant capable of producing *natural and personalized responses. The chatbot can both **retrieve information directly* from sample answers and *generate new, original responses* via the *Gemini API*.
+
+---
+
+## 📊 Dataset
+
+The dataset consists of sample question-answer pairs from *IELTS Speaking Parts 1, 2, and 3*. Each record is structured as follows:
+
+```json
 {
-"instruction": "Do you have a bike now?",
+  "instruction": "Do you have a bike now?",
   "response": "Yes, I do have a bike now. I use it mainly for short trips around my neighborhood..."
 }
 
-## ⚙️ Kullanılan Teknolojiler  
+## ⚙️ Tech Stack
 
-| Katman | Teknoloji |
-|--------|------------|
-| **LLM / Generation Model** | Google Gemini API (`gemini-2.0-flash`) |
-| **Embedding Model** | `text-embedding-004` (Google Generative AI Embeddings) |
-| **Vektör Veritabanı** | ChromaDB |
-| **Framework** | LangChain |
-| **Arayüz** | Streamlit |
-| **Programlama Dili** | Python 3.11 |
-| **Paket Yönetimi** | pip, `requirements.txt` |
+
+|Layer                     |Technology                            |
+|--------------------------|--------------------------------------|
+|*LLM / Generation Model*|Google Gemini API (⁠ gemini-2.0-flash ⁠)|
+|*Embedding Model*       |⁠ text-embedding-004 ⁠                  |
+|*Vector Database*       |ChromaDB                              |
+|*Framework*             |LangChain                             |
+|*Interface*             |Streamlit                             |
+|*Programming Language*  |Python 3.11                           |
+|*Package Management*    |pip, ⁠ requirements.txt ⁠               |
+
 
 ---
 
-## 🧩 Mimari Akış (RAG Pipeline)  
+## 🧩 RAG Pipeline
 
-1️⃣ **Kullanıcı girişi (soru)** alınır  
-2️⃣ **Vektör benzerliği** ile en yakın IELTS yanıtları ChromaDB üzerinden bulunur  
-3️⃣ **Gemini API modeli**, bu bağlamı kullanarak yeni, doğal bir yanıt üretir  
-4️⃣ **Streamlit arayüzü**, hem girdiyi hem de üretimi kullanıcıya gösterir  
+	1.	User input (question) is received
+	2.	Vector similarity search retrieves the most relevant IELTS answers from ChromaDB
+	3.	Gemini API uses this context to generate a new, natural response
+	4.	Streamlit interface displays both the input and the generated output 
 
 📈 Böylece chatbot hem bilgiye dayalı hem de özgün cevaplar sunar. 
 
-## 💬 Örnek Diyalog
-**Kullanıcı:** What do you usually do in your free time?
+## 💬 Sample Dialogue
+**User:** What do you usually do in your free time?
 **Chatbot:** Well, it really depends on how much free time I actually have. If I'm just talking about a spare hour or two, I usually unwind by listening to music or catching up on news online.
 
-## 🖥️ Çalıştırma Kılavuzu
-## 🔧 Ortam Kurulumu
+## 🖥️ Setup & Usage
 bash
-Kodu kopyala
+⁠Clone the repo and install dependencies
 git clone https://github.com/illkaysari/ielts-buddy-rag.git  
 cd ielts-buddy-rag  
 python3 -m venv .venv  
 source .venv/bin/activate  
 pip install -r requirements.txt  
 
-## 🧠 Vektör Veritabanı Oluşturma
+## 🧠 Build the Vector Data Base
 
 bash
-Kodu kopyala
+Copy the Code
 python src/ingest.py
 
-## 💬 Chatbot’u Başlatma
+## 💬 Launch the Chatbot
 bash
-Kodu kopyala
+Copy the Code
 streamlit run src/app.py
-Tarayıcıda açılacak sayfa üzerinden chatbot kullanılabilir.
+The chatbot can be used via the page that opens in the browser.
 
-## 🌐 Web Arayüzü
+## 🌐 Live Demo
 
-## 👉 Streamlit Web Uygulaması: https://ielts-buddy-rag.streamlit.app
+## 👉 Streamlit Web App: https://ielts-buddy-rag.streamlit.app
 
-Kullanıcı, web arayüzü üzerinden soru yazarak anında yanıt alabilir.
+Users can ask questions via the web interface and receive an instant reply.
 
-## 🏁 Sonuç
-Bu proje, RAG mimarisinin dil eğitimi alanındaki potansiyelini göstermektedir.
-IELTS Buddy, yalnızca IELTS’e yönelik değil, ilerleyen sürümlerde TOEFL, YDS gibi sınavlar için de ölçeklenebilir bir altyapıya sahiptir.
+## 🏁 Conclusion
+This project demonstrates the potential of RAG architecture in the field of language education. IELTS Buddy is built on a scalable foundation — future versions could extend support to other exams such as TOEFL and YDS.
 
-## 👩‍💻 Geliştirici
+
+## 👩‍💻 Developer
   İlkay Sarı 
-
-
-
----
