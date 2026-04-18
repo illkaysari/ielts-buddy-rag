@@ -63,10 +63,15 @@ The dataset consists of sample question-answer pairs from *IELTS Speaking Parts 
 
 ⁠ bash
 git clone https://github.com/illkaysari/ielts-buddy-rag.git
+
 cd ielts-buddy-rag
+
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 pip install -r requirements.txt
+
  ⁠
 
 *2. Build the vector database*
